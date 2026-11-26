@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 348" role="img" aria-labelledby="title description">
+<title id="title">Vom Bedarf zum Nachweis</title>
+<desc id="description">Die Prüfkette verbindet Bedarf, überprüfbare Anforderung, Datenschnittstelle und Testprotokoll.</desc>
+<rect x="0" y="0" width="820" height="348" fill="#fff"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="32" y="48" text-anchor="start" fill="#182932" font-size="29" font-weight="700">Vom Bedarf zum Nachweis</text>
+<line x1="32" y1="68" x2="788" y2="68" stroke="#D8E0E2" stroke-width="2"/>
+<rect x="34" y="125" width="170" height="66" rx="8" fill="#fff" stroke="#215872" stroke-width="2"/>
+<text x="119.0" y="165.0" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">Bedarf</text>
+<text x="119" y="230" text-anchor="middle" fill="#5B6A70" font-size="18" font-weight="400">Alte Daten</text>
+<text x="119" y="256" text-anchor="middle" fill="#5B6A70" font-size="18" font-weight="400">erkennbar</text>
+<line x1="204" y1="158" x2="223" y2="158" stroke="#182932" stroke-width="3"/>
+<path d="M 213.45 163.47 L 223 158 L 213.45 152.53" fill="none" stroke="#182932" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="225" y="125" width="170" height="66" rx="8" fill="#fff" stroke="#215872" stroke-width="2"/>
+<text x="310.0" y="165.0" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">Anforderung</text>
+<text x="310" y="230" text-anchor="middle" fill="#5B6A70" font-size="18" font-weight="400">Alter und</text>
+<text x="310" y="256" text-anchor="middle" fill="#5B6A70" font-size="18" font-weight="400">Zeitgrenze</text>
+<line x1="395" y1="158" x2="414" y2="158" stroke="#182932" stroke-width="3"/>
+<path d="M 404.45 163.47 L 414 158 L 404.45 152.53" fill="none" stroke="#182932" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="416" y="125" width="170" height="66" rx="8" fill="#fff" stroke="#215872" stroke-width="2"/>
+<text x="501.0" y="165.0" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">Schnittstelle</text>
+<text x="501" y="230" text-anchor="middle" fill="#5B6A70" font-size="18" font-weight="400">Zeiten und</text>
+<text x="501" y="256" text-anchor="middle" fill="#5B6A70" font-size="18" font-weight="400">Status</text>
+<line x1="586" y1="158" x2="605" y2="158" stroke="#182932" stroke-width="3"/>
+<path d="M 595.45 163.47 L 605 158 L 595.45 152.53" fill="none" stroke="#182932" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="607" y="125" width="170" height="66" rx="8" fill="#fff" stroke="#883707" stroke-width="2"/>
+<text x="692.0" y="165.0" text-anchor="middle" fill="#883707" font-size="20" font-weight="600">Nachweis</text>
+<text x="692" y="230" text-anchor="middle" fill="#5B6A70" font-size="18" font-weight="400">Randwerte und</text>
+<text x="692" y="256" text-anchor="middle" fill="#5B6A70" font-size="18" font-weight="400">Prüfprotokoll</text>
+<text x="34" y="313" text-anchor="start" fill="#5B6A70" font-size="18" font-weight="400">Bei einer Änderung die Auswirkungen bis zum Test verfolgen.</text>
+</g>
+</svg>

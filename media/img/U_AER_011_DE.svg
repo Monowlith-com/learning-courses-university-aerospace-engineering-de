@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 441" xml:lang="de" role="img" aria-labelledby="figure-title figure-description">
+<title id="figure-title">Ein Energiegewinn, zwei Zustandsänderungen</title>
+<desc id="figure-description">Ein Energiegewinn von 30 Kilojoule erhöht die Energiehöhe um 3,06 Meter. Bei konstanter Geschwindigkeit steigt die Höhe um diesen Betrag. Bei konstanter Höhe steigt die Geschwindigkeit von 50 auf 50,60 Meter pro Sekunde.</desc>
+<defs><marker id="ink-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#212c35"/></marker><marker id="blue-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#215872"/></marker><marker id="rust-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#883707"/></marker><marker id="grid-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#bac3c9"/></marker></defs>
+<rect x="0" y="0" width="820" height="441" fill="#fff" />
+<g font-family="Arial, sans-serif">
+<text x="38" y="48" font-size="28" fill="#212c35" text-anchor="start" font-weight="700">Ein Energiegewinn, zwei Zustandsänderungen</text>
+<line x1="38" y1="68" x2="782" y2="68" stroke="#bac3c9" stroke-width="2" />
+<text x="410" y="111" font-size="22" fill="#212c35" text-anchor="middle" font-weight="700">Ausgangszustand</text>
+<text x="410" y="143" font-size="20" fill="#212c35" text-anchor="middle" font-weight="400">U = 50 m/s    h = h₀</text>
+<line x1="410" y1="157" x2="410" y2="190" stroke="#212c35" stroke-width="2" />
+<rect x="244" y="191" width="332" height="55" fill="#fff" stroke="#212c35" stroke-width="2" rx="4"/>
+<text x="410" y="225" font-size="23" fill="#212c35" text-anchor="middle" font-weight="700">+30 kJ    ΔEₕ = +3,06 m</text>
+<line x1="410" y1="246" x2="410" y2="270" stroke="#212c35" stroke-width="2" />
+<line x1="209" y1="270" x2="611" y2="270" stroke="#212c35" stroke-width="2" />
+<line x1="209" y1="270" x2="209" y2="301" stroke="#215872" stroke-width="3" marker-end="url(#blue-arrow)"/>
+<line x1="611" y1="270" x2="611" y2="301" stroke="#883707" stroke-width="3" marker-end="url(#rust-arrow)"/>
+<rect x="48" y="303" width="322" height="110" fill="#fff" stroke="#215872" stroke-width="2" rx="4"/>
+<rect x="450" y="303" width="322" height="110" fill="#fff" stroke="#883707" stroke-width="2" rx="4"/>
+<text x="209" y="341" font-size="22" fill="#215872" text-anchor="middle" font-weight="700">Geschwindigkeit konstant</text>
+<text x="209" y="382" font-size="21" fill="#212c35" text-anchor="middle" font-weight="400">U = 50 m/s    h = h₀ + 3,06 m</text>
+<text x="611" y="341" font-size="22" fill="#883707" text-anchor="middle" font-weight="700">Höhe konstant</text>
+<text x="611" y="382" font-size="21" fill="#212c35" text-anchor="middle" font-weight="400">U = 50,60 m/s    h = h₀</text>
+</g>
+</svg>

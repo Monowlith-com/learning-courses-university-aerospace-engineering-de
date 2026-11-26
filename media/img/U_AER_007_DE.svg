@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 456" xml:lang="de" role="img" aria-labelledby="figure-title figure-description">
+<title id="figure-title">Mach- und Reynolds-Ähnlichkeit im Vergleich</title>
+<desc id="figure-description">Bei halber Profiltiefe und gleicher Geschwindigkeit bleibt die Mach-Zahl 0,20. Die Reynolds-Zahl halbiert sich. Doppelte Geschwindigkeit stellt die ursprüngliche Reynolds-Zahl wieder her und verdoppelt die Mach-Zahl.</desc>
+<defs><marker id="ink-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#212c35"/></marker><marker id="blue-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#215872"/></marker><marker id="rust-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#883707"/></marker></defs>
+<rect x="0" y="0" width="820" height="456" fill="#fff" />
+<g font-family="Arial, sans-serif">
+<text x="38" y="48" font-size="28" fill="#212c35" text-anchor="start" font-weight="700">Mach- und Reynolds-Ähnlichkeit im Vergleich</text>
+<line x1="38" y1="68" x2="782" y2="68" stroke="#bac3c9" stroke-width="2" />
+<text x="38" y="110" font-size="21" fill="#212c35" text-anchor="start" font-weight="700">Zustand</text>
+<text x="408" y="110" font-size="22" fill="#215872" text-anchor="start" font-weight="700">Ma = U/a</text>
+<text x="617" y="110" font-size="22" fill="#883707" text-anchor="start" font-weight="700">Re = ρUc/μ</text>
+<line x1="38" y1="132" x2="780" y2="132" stroke="#bac3c9" stroke-width="2" />
+<text x="38" y="162" font-size="22" fill="#212c35" text-anchor="start" font-weight="700">Referenzmodell</text>
+<text x="38" y="191" font-size="19" fill="#212c35" text-anchor="start" font-weight="400">c = 2 m     U = 68 m/s</text>
+<text x="408" y="175" font-size="25" fill="#215872" text-anchor="start" font-weight="700">0,20</text>
+<text x="514" y="175" font-size="21" fill="#212c35" text-anchor="middle" font-weight="400">=</text>
+<text x="617" y="175" font-size="25" fill="#883707" text-anchor="start" font-weight="700">9,07 · 10⁶</text>
+<text x="765" y="175" font-size="21" fill="#212c35" text-anchor="middle" font-weight="400">=</text>
+<line x1="38" y1="223" x2="780" y2="223" stroke="#bac3c9" stroke-width="2" />
+<text x="38" y="253" font-size="22" fill="#212c35" text-anchor="start" font-weight="700">Halbe Profiltiefe</text>
+<text x="38" y="282" font-size="19" fill="#212c35" text-anchor="start" font-weight="400">c = 1 m     U = 68 m/s</text>
+<text x="408" y="266" font-size="25" fill="#215872" text-anchor="start" font-weight="700">0,20</text>
+<text x="514" y="266" font-size="21" fill="#212c35" text-anchor="middle" font-weight="400">=</text>
+<text x="617" y="266" font-size="25" fill="#883707" text-anchor="start" font-weight="700">4,53 · 10⁶</text>
+<text x="765" y="266" font-size="21" fill="#212c35" text-anchor="middle" font-weight="400">½</text>
+<line x1="38" y1="314" x2="780" y2="314" stroke="#bac3c9" stroke-width="2" />
+<text x="38" y="344" font-size="22" fill="#212c35" text-anchor="start" font-weight="700">Doppeltes U</text>
+<text x="38" y="373" font-size="19" fill="#212c35" text-anchor="start" font-weight="400">c = 1 m     U = 136 m/s</text>
+<text x="408" y="357" font-size="25" fill="#215872" text-anchor="start" font-weight="700">0,40</text>
+<text x="514" y="357" font-size="21" fill="#212c35" text-anchor="middle" font-weight="400">×2</text>
+<text x="617" y="357" font-size="25" fill="#883707" text-anchor="start" font-weight="700">9,07 · 10⁶</text>
+<text x="765" y="357" font-size="21" fill="#212c35" text-anchor="middle" font-weight="400">=</text>
+<line x1="38" y1="397" x2="780" y2="397" stroke="#bac3c9" stroke-width="2" />
+<text x="38" y="428" font-size="18" fill="#212c35" text-anchor="start" font-weight="400">Zeichen geben das Verhältnis zum Referenzmodell an.</text>
+</g>
+</svg>

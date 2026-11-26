@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 430" role="img" aria-labelledby="title desc">
+  <title id="title">Bahnfamilien für Beobachtungsziele</title>
+  <desc id="desc">Qualitativer Vergleich bei gleicher angenommener Winkelauflösung.</desc>
+  <rect width="820" height="430" fill="#fff"/>
+  <defs>
+    <marker id="blue-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#215872"/>
+    </marker>
+    <marker id="brown-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#883707"/>
+    </marker>
+  </defs>
+  <g font-family="sans-serif" font-size="23" fill="#202a2e">
+    <text x="40" y="47" font-size="29" font-weight="bold">Bahnfamilien für Beobachtungsziele</text>
+    <path d="M40 67 H780" stroke="#c6cbd0" stroke-width="2"/>
+    <path d="M40 151 H780 M40 216 H780 M40 281 H780 M40 346 H780 M249 104 V346 M510 104 V346" stroke="#c6cbd0" stroke-width="2"/>
+    <text x="56" y="130" font-size="22" font-weight="bold">Kriterium</text>
+    <text x="268" y="130" font-size="22" font-weight="bold">Geostationär</text>
+    <text x="531" y="130" font-size="22" font-weight="bold">Niedrig und polnah</text>
+    <text x="56" y="193" font-size="21">Abdeckung</text>
+    <text x="268" y="193" font-size="21">Ähnliche Erdscheibe</text>
+    <text x="531" y="193" font-size="21">Viele Breitengrade</text>
+    <text x="56" y="258" font-size="21">Wiederbesuch</text>
+    <text x="268" y="258" font-size="21">Region bleibt im Blick</text>
+    <text x="531" y="258" font-size="21">Geeigneter Überflug</text>
+    <text x="56" y="323" font-size="21">Bodendetail</text>
+    <text x="268" y="323" font-size="21">Gröber¹</text>
+    <text x="531" y="323" font-size="21">Feiner¹</text>
+    <text x="56" y="394" font-size="19">¹ Bei gleicher Winkelauflösung und vergleichbarer Blickgeometrie.</text>
+  </g>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 600" xml:lang="de" role="img" aria-labelledby="figure-title figure-description">
+<title id="figure-title">Auftriebsverlauf bei Strömungsablösung</title>
+<desc id="figure-description">Bei großer Neigung löst sich die profilnahe Strömung in der Skizze. Der synthetische Auftriebsbeiwert steigt von 0,20 auf 1,00 bei 12 Grad und fällt bei 16 Grad auf 0,82, während die lineare Vergleichsrechnung weiter ansteigt.</desc>
+<defs><marker id="ink-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#212c35"/></marker><marker id="blue-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#215872"/></marker><marker id="rust-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#883707"/></marker></defs>
+<rect x="0" y="0" width="820" height="600" fill="#fff" />
+<g font-family="Arial, sans-serif">
+<text x="38" y="48" font-size="28" fill="#212c35" text-anchor="start" font-weight="700">Auftriebsverlauf bei Strömungsablösung</text>
+<line x1="38" y1="68" x2="782" y2="68" stroke="#bac3c9" stroke-width="2" />
+<text x="38" y="108" font-size="21" fill="#212c35" text-anchor="start" font-weight="700">Anliegende Strömung</text>
+<text x="433" y="108" font-size="21" fill="#212c35" text-anchor="start" font-weight="700">Ausgedehnte Ablösung</text>
+<line x1="414" y1="88" x2="414" y2="228" stroke="#bac3c9" stroke-width="2" />
+<path d="M111 174 C150 147 207 149 327 180 C241 176 163 192 111 174 Z" fill="#eaf0f3" stroke="#212c35" stroke-width="2" />
+<path d="M55 163 C89 163 118 142 158 137 C220 132 271 148 369 164" fill="none" stroke="#215872" stroke-width="3" />
+<path d="M55 199 C105 199 124 195 166 195 C231 195 277 189 369 188" fill="none" stroke="#215872" stroke-width="3" />
+<line x1="73" y1="163" x2="99" y2="155" stroke="#215872" stroke-width="3" marker-end="url(#blue-arrow)"/>
+<line x1="337" y1="159" x2="369" y2="164" stroke="#215872" stroke-width="3" marker-end="url(#blue-arrow)"/>
+<path d="M487 173 C521 143 565 141 737 221 C644 188 542 192 487 173 Z" fill="#eaf0f3" stroke="#212c35" stroke-width="2" />
+<path d="M433 156 C482 151 511 131 551 131 C614 130 643 135 780 153" fill="none" stroke="#883707" stroke-width="3" />
+<path d="M554 144 C615 147 661 162 729 199" fill="none" stroke="#883707" stroke-width="2" stroke-dasharray="8 6"/>
+<line x1="751" y1="150" x2="780" y2="153" stroke="#883707" stroke-width="3" marker-end="url(#rust-arrow)"/>
+<circle cx="552" cy="145" r="4" fill="#883707"/>
+<line x1="38" y1="247" x2="782" y2="247" stroke="#bac3c9" stroke-width="2" />
+<text x="103" y="282" font-size="22" fill="#212c35" text-anchor="start" font-weight="700">Cₗ</text>
+<line x1="96" y1="507" x2="668" y2="507" stroke="#bac3c9" stroke-width="1" />
+<text x="80" y="513" font-size="18" fill="#212c35" text-anchor="end" font-weight="400">0</text>
+<line x1="96" y1="434.5" x2="668" y2="434.5" stroke="#bac3c9" stroke-width="1" />
+<text x="80" y="440.5" font-size="18" fill="#212c35" text-anchor="end" font-weight="400">0,5</text>
+<line x1="96" y1="362" x2="668" y2="362" stroke="#bac3c9" stroke-width="1" />
+<text x="80" y="368" font-size="18" fill="#212c35" text-anchor="end" font-weight="400">1</text>
+<line x1="96" y1="289.5" x2="668" y2="289.5" stroke="#bac3c9" stroke-width="1" />
+<text x="80" y="295.5" font-size="18" fill="#212c35" text-anchor="end" font-weight="400">1,5</text>
+<line x1="96" y1="290" x2="96" y2="507" stroke="#212c35" stroke-width="2" />
+<line x1="96" y1="507" x2="668" y2="507" stroke="#212c35" stroke-width="2" />
+<text x="96" y="533" font-size="18" fill="#212c35" text-anchor="middle" font-weight="400">0</text>
+<text x="235" y="533" font-size="18" fill="#212c35" text-anchor="middle" font-weight="400">4</text>
+<text x="374" y="533" font-size="18" fill="#212c35" text-anchor="middle" font-weight="400">8</text>
+<text x="513" y="533" font-size="18" fill="#212c35" text-anchor="middle" font-weight="400">12</text>
+<text x="652" y="533" font-size="18" fill="#212c35" text-anchor="middle" font-weight="400">16</text>
+<text x="693" y="519" font-size="20" fill="#212c35" text-anchor="start" font-weight="400">α (°)</text>
+<path d="M96 478.0 L235 434.5 L374 391.0 L513 347.5 L652 304.0" fill="none" stroke="#215872" stroke-width="3" stroke-dasharray="9 7"/>
+<path d="M96 478.0 L235 435.9 L374 396.8 L513 362.0 L652 388.1" fill="none" stroke="#883707" stroke-width="3" />
+<circle cx="96" cy="478.0" r="5" fill="#883707"/>
+<circle cx="235" cy="435.95" r="5" fill="#883707"/>
+<circle cx="374" cy="396.8" r="5" fill="#883707"/>
+<circle cx="513" cy="362.0" r="5" fill="#883707"/>
+<circle cx="652" cy="388.1" r="5" fill="#883707"/>
+<line x1="87" y1="564" x2="135" y2="564" stroke="#215872" stroke-width="3" stroke-dasharray="9 7"/>
+<text x="145" y="571" font-size="18" fill="#212c35" text-anchor="start" font-weight="400">Lineare Vergleichsrechnung</text>
+<line x1="442" y1="564" x2="490" y2="564" stroke="#883707" stroke-width="3" />
+<circle cx="466" cy="564" r="4" fill="#883707"/>
+<text x="503" y="571" font-size="18" fill="#212c35" text-anchor="start" font-weight="400">Synthetische Messung</text>
+</g>
+</svg>

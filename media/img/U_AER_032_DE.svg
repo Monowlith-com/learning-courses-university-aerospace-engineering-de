@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="de" viewBox="0 0 854 767" role="img" aria-labelledby="title desc">
+<title id="title">Widerstandskurven und Residuen</title>
+<desc id="desc">Zwei synthetische Kurven und ihre Abweichung vom gemeinsamen Modell. Bei einem Auftriebsbeiwert von 0,60 liegt B unter A.</desc>
+<rect width="854" height="767" fill="#fff"/>
+<g font-family="Source Sans 3, Arial, sans-serif">
+<text x="42" y="47" font-size="30" fill="#20272e" text-anchor="start" font-weight="600">Widerstandskurven und Residuen</text>
+<text x="42" y="75" font-size="19" fill="#46525a" text-anchor="start">Synthetische Windkanaldaten am gemeinsamen Auftriebsbeiwert</text>
+<line x1="42" y1="91" x2="812" y2="91" stroke="#d5dade" stroke-width="1"/>
+<line x1="44" y1="117" x2="80" y2="117" stroke="#69747c" stroke-width="2.5" stroke-dasharray="7 5"/>
+<text x="90" y="123" font-size="18" fill="#20272e" text-anchor="start">Referenz</text>
+<rect x="219" y="112" width="10" height="10" stroke="#215872" stroke-width="2.7" fill="white"/>
+<text x="238" y="123" font-size="18" fill="#20272e" text-anchor="start">A</text>
+<circle cx="294" cy="117" r="5" stroke="#883707" stroke-width="2.7" fill="white"/>
+<text x="308" y="123" font-size="18" fill="#20272e" text-anchor="start">B</text>
+<line x1="368" y1="111" x2="368" y2="123" stroke="#69747c" stroke-width="1.6"/>
+<line x1="362" y1="111" x2="374" y2="111" stroke="#69747c" stroke-width="1.6"/>
+<line x1="362" y1="123" x2="374" y2="123" stroke="#69747c" stroke-width="1.6"/>
+<text x="382" y="123" font-size="18" fill="#20272e" text-anchor="start">Balken: Lehrintervalle</text>
+<text x="125" y="156" font-size="19" fill="#46525a">Widerstandsbeiwert C<tspan baseline-shift="sub" font-size="14">D</tspan></text>
+<text x="125" y="453" font-size="19" fill="#46525a">Residuum r<tspan baseline-shift="sub" font-size="14">D</tspan></text>
+<line x1="124" y1="360.2" x2="786" y2="360.2" stroke="#d5dade" stroke-width="1"/>
+<text x="113" y="366.2" font-size="18" fill="#46525a" text-anchor="end">0,020</text>
+<line x1="124" y1="325.7" x2="786" y2="325.7" stroke="#d5dade" stroke-width="1"/>
+<text x="113" y="331.7" font-size="18" fill="#46525a" text-anchor="end">0,025</text>
+<line x1="124" y1="291.2" x2="786" y2="291.2" stroke="#d5dade" stroke-width="1"/>
+<text x="113" y="297.2" font-size="18" fill="#46525a" text-anchor="end">0,030</text>
+<line x1="124" y1="256.7" x2="786" y2="256.7" stroke="#d5dade" stroke-width="1"/>
+<text x="113" y="262.7" font-size="18" fill="#46525a" text-anchor="end">0,035</text>
+<line x1="124" y1="222.2" x2="786" y2="222.2" stroke="#d5dade" stroke-width="1"/>
+<text x="113" y="228.2" font-size="18" fill="#46525a" text-anchor="end">0,040</text>
+<line x1="124" y1="187.7" x2="786" y2="187.7" stroke="#d5dade" stroke-width="1"/>
+<text x="113" y="193.7" font-size="18" fill="#46525a" text-anchor="end">0,045</text>
+<line x1="124" y1="637.6" x2="786" y2="637.6" stroke="#d5dade" stroke-width="1"/>
+<text x="113" y="643.6" font-size="18" fill="#46525a" text-anchor="end">-0,008</text>
+<line x1="124" y1="594.8" x2="786" y2="594.8" stroke="#d5dade" stroke-width="1"/>
+<text x="113" y="600.8" font-size="18" fill="#46525a" text-anchor="end">-0,004</text>
+<line x1="124" y1="552" x2="786" y2="552" stroke="#a4afb7" stroke-width="1.4"/>
+<text x="113" y="558" font-size="18" fill="#46525a" text-anchor="end">0,000</text>
+<line x1="124" y1="509.2" x2="786" y2="509.2" stroke="#d5dade" stroke-width="1"/>
+<text x="113" y="515.2" font-size="18" fill="#46525a" text-anchor="end">0,004</text>
+<line x1="124" y1="466.4" x2="786" y2="466.4" stroke="#d5dade" stroke-width="1"/>
+<text x="113" y="472.4" font-size="18" fill="#46525a" text-anchor="end">0,008</text>
+<line x1="124" y1="165" x2="124" y2="374" stroke="#69747c" stroke-width="1.8"/>
+<line x1="124" y1="374" x2="786" y2="374" stroke="#69747c" stroke-width="1.8"/>
+<line x1="124" y1="464" x2="124" y2="652" stroke="#69747c" stroke-width="1.8"/>
+<line x1="124" y1="652" x2="786" y2="652" stroke="#69747c" stroke-width="1.8"/>
+<line x1="548" y1="160" x2="548" y2="374" stroke="#a4afb7" stroke-width="1.6" stroke-dasharray="4 5"/>
+<line x1="548" y1="464" x2="548" y2="652" stroke="#a4afb7" stroke-width="1.6" stroke-dasharray="4 5"/>
+<text x="562" y="169" font-size="18" fill="#46525a" text-anchor="start">Lehrpunkt</text>
+<line x1="156" y1="374" x2="156" y2="379" stroke="#69747c" stroke-width="1.5"/>
+<text x="156" y="399" font-size="18" fill="#46525a" text-anchor="middle">0,30</text>
+<line x1="156" y1="652" x2="156" y2="657" stroke="#69747c" stroke-width="1.5"/>
+<text x="156" y="677" font-size="18" fill="#46525a" text-anchor="middle">0,30</text>
+<line x1="352" y1="374" x2="352" y2="379" stroke="#69747c" stroke-width="1.5"/>
+<text x="352" y="399" font-size="18" fill="#46525a" text-anchor="middle">0,45</text>
+<line x1="352" y1="652" x2="352" y2="657" stroke="#69747c" stroke-width="1.5"/>
+<text x="352" y="677" font-size="18" fill="#46525a" text-anchor="middle">0,45</text>
+<line x1="548" y1="374" x2="548" y2="379" stroke="#69747c" stroke-width="1.5"/>
+<text x="548" y="399" font-size="18" fill="#46525a" text-anchor="middle">0,60</text>
+<line x1="548" y1="652" x2="548" y2="657" stroke="#69747c" stroke-width="1.5"/>
+<text x="548" y="677" font-size="18" fill="#46525a" text-anchor="middle">0,60</text>
+<line x1="744" y1="374" x2="744" y2="379" stroke="#69747c" stroke-width="1.5"/>
+<text x="744" y="399" font-size="18" fill="#46525a" text-anchor="middle">0,75</text>
+<line x1="744" y1="652" x2="744" y2="657" stroke="#69747c" stroke-width="1.5"/>
+<text x="744" y="677" font-size="18" fill="#46525a" text-anchor="middle">0,75</text>
+<text x="582" y="421" font-size="19" fill="#46525a">Auftriebsbeiwert C<tspan baseline-shift="sub" font-size="14">L</tspan></text>
+<text x="582" y="699" font-size="19" fill="#46525a">Auftriebsbeiwert C<tspan baseline-shift="sub" font-size="14">L</tspan></text>
+<polyline points="156,360.20 352,332.60 548,291.20 744,236.00" fill="none" stroke="#69747c" stroke-width="2.7" stroke-linejoin="round" stroke-dasharray="7 5"/>
+<polyline points="156,353.30 352,325.70 548,277.40 744,208.40" fill="none" stroke="#215872" stroke-width="2.7" stroke-linejoin="round"/>
+<polyline points="156,339.50 352,325.70 548,311.90 744,277.40" fill="none" stroke="#883707" stroke-width="2.7" stroke-linejoin="round" stroke-dasharray="12 4 2 4"/>
+<polyline points="156,541.30 352,541.30 548,530.60 744,509.20" fill="none" stroke="#215872" stroke-width="2.7" stroke-linejoin="round"/>
+<line x1="151" y1="339.5" x2="151" y2="367.1" stroke="#215872" stroke-width="1.5"/>
+<line x1="148" y1="339.5" x2="154" y2="339.5" stroke="#215872" stroke-width="1.5"/>
+<line x1="148" y1="367.1" x2="154" y2="367.1" stroke="#215872" stroke-width="1.5"/>
+<rect x="151" y="348.3" width="10" height="10" stroke="#215872" stroke-width="2.7" fill="none"/>
+<rect x="151" y="536.3" width="10" height="10" stroke="#215872" stroke-width="2.7" fill="none"/>
+<line x1="347" y1="311.9" x2="347" y2="339.5" stroke="#215872" stroke-width="1.5"/>
+<line x1="344" y1="311.9" x2="350" y2="311.9" stroke="#215872" stroke-width="1.5"/>
+<line x1="344" y1="339.5" x2="350" y2="339.5" stroke="#215872" stroke-width="1.5"/>
+<rect x="347" y="320.7" width="10" height="10" stroke="#215872" stroke-width="2.7" fill="none"/>
+<rect x="347" y="536.3" width="10" height="10" stroke="#215872" stroke-width="2.7" fill="none"/>
+<line x1="543" y1="263.6" x2="543" y2="291.2" stroke="#215872" stroke-width="1.5"/>
+<line x1="540" y1="263.6" x2="546" y2="263.6" stroke="#215872" stroke-width="1.5"/>
+<line x1="540" y1="291.2" x2="546" y2="291.2" stroke="#215872" stroke-width="1.5"/>
+<rect x="543" y="272.4" width="10" height="10" stroke="#215872" stroke-width="2.7" fill="none"/>
+<rect x="543" y="525.6" width="10" height="10" stroke="#215872" stroke-width="2.7" fill="none"/>
+<line x1="739" y1="194.6" x2="739" y2="222.2" stroke="#215872" stroke-width="1.5"/>
+<line x1="736" y1="194.6" x2="742" y2="194.6" stroke="#215872" stroke-width="1.5"/>
+<line x1="736" y1="222.2" x2="742" y2="222.2" stroke="#215872" stroke-width="1.5"/>
+<rect x="739" y="203.4" width="10" height="10" stroke="#215872" stroke-width="2.7" fill="none"/>
+<rect x="739" y="504.2" width="10" height="10" stroke="#215872" stroke-width="2.7" fill="none"/>
+<polyline points="156,519.90 352,541.30 548,584.10 744,616.20" fill="none" stroke="#883707" stroke-width="2.7" stroke-linejoin="round" stroke-dasharray="12 4 2 4"/>
+<line x1="161" y1="325.7" x2="161" y2="353.3" stroke="#883707" stroke-width="1.5"/>
+<line x1="158" y1="325.7" x2="164" y2="325.7" stroke="#883707" stroke-width="1.5"/>
+<line x1="158" y1="353.3" x2="164" y2="353.3" stroke="#883707" stroke-width="1.5"/>
+<circle cx="156" cy="339.5" r="7" stroke="#883707" stroke-width="2.7" fill="none"/>
+<circle cx="156" cy="519.9" r="7" stroke="#883707" stroke-width="2.7" fill="none"/>
+<line x1="357" y1="311.9" x2="357" y2="339.5" stroke="#883707" stroke-width="1.5"/>
+<line x1="354" y1="311.9" x2="360" y2="311.9" stroke="#883707" stroke-width="1.5"/>
+<line x1="354" y1="339.5" x2="360" y2="339.5" stroke="#883707" stroke-width="1.5"/>
+<circle cx="352" cy="325.7" r="7" stroke="#883707" stroke-width="2.7" fill="none"/>
+<circle cx="352" cy="541.3" r="7" stroke="#883707" stroke-width="2.7" fill="none"/>
+<line x1="553" y1="298.1" x2="553" y2="325.7" stroke="#883707" stroke-width="1.5"/>
+<line x1="550" y1="298.1" x2="556" y2="298.1" stroke="#883707" stroke-width="1.5"/>
+<line x1="550" y1="325.7" x2="556" y2="325.7" stroke="#883707" stroke-width="1.5"/>
+<circle cx="548" cy="311.9" r="7" stroke="#883707" stroke-width="2.7" fill="none"/>
+<circle cx="548" cy="584.1" r="7" stroke="#883707" stroke-width="2.7" fill="none"/>
+<line x1="749" y1="263.6" x2="749" y2="291.2" stroke="#883707" stroke-width="1.5"/>
+<line x1="746" y1="263.6" x2="752" y2="263.6" stroke="#883707" stroke-width="1.5"/>
+<line x1="746" y1="291.2" x2="752" y2="291.2" stroke="#883707" stroke-width="1.5"/>
+<circle cx="744" cy="277.4" r="7" stroke="#883707" stroke-width="2.7" fill="none"/>
+<circle cx="744" cy="616.2" r="7" stroke="#883707" stroke-width="2.7" fill="none"/>
+<line x1="42" y1="718" x2="812" y2="718" stroke="#d5dade" stroke-width="1"/>
+<text x="42" y="745" font-size="18" fill="#46525a" text-anchor="start">Residuen = Simulation − Referenz. Verbindungslinien dienen der Orientierung.</text>
+</g>
+</svg>

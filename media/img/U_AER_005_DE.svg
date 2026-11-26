@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 365" xml:lang="de" role="img" aria-labelledby="figure-title figure-description">
+<title id="figure-title">Aerodynamische Kräfte und Bezugsfläche</title>
+<desc id="figure-description">Die ungestörte Luft strömt nach rechts. Der Widerstand zeigt nach rechts, der Auftrieb nach oben. Rechts zeigt die Draufsicht die Flügelgrundrissfläche S.</desc>
+<defs><marker id="ink-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#212c35"/></marker><marker id="blue-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#215872"/></marker><marker id="rust-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#883707"/></marker></defs>
+<rect x="0" y="0" width="820" height="365" fill="#fff" />
+<g font-family="Arial, sans-serif">
+<text x="38" y="48" font-size="28" fill="#212c35" text-anchor="start" font-weight="700">Aerodynamische Kräfte und Bezugsfläche</text>
+<line x1="38" y1="68" x2="782" y2="68" stroke="#bac3c9" stroke-width="2" />
+<text x="38" y="110" font-size="22" fill="#212c35" text-anchor="start" font-weight="700">Seitenansicht</text>
+<text x="544" y="110" font-size="22" fill="#212c35" text-anchor="start" font-weight="700">Draufsicht</text>
+<line x1="508" y1="92" x2="508" y2="339" stroke="#bac3c9" stroke-width="2" />
+<line x1="42" y1="177" x2="183" y2="177" stroke="#212c35" stroke-width="3" marker-end="url(#ink-arrow)"/>
+<text x="42" y="159" font-size="18" fill="#212c35" text-anchor="start" font-weight="400">Anströmung</text>
+<path d="M212 223 C238 192 310 208 432 263 C343 246 245 252 212 223 Z" fill="#eaf0f3" stroke="#212c35" stroke-width="2" />
+<line x1="212" y1="223" x2="442" y2="266" stroke="#212c35" stroke-width="2" stroke-dasharray="8 5"/>
+<line x1="212" y1="223" x2="272" y2="223" stroke="#212c35" stroke-width="2" />
+<path d="M260 223 A48 48 0 0 1 259 232" fill="none" stroke="#883707" stroke-width="2" />
+<text x="272" y="246" font-size="21" fill="#883707" text-anchor="start" font-weight="700">α</text>
+<circle cx="323" cy="243" r="4" fill="#212c35"/>
+<line x1="323" y1="243" x2="323" y2="134" stroke="#215872" stroke-width="3" marker-end="url(#blue-arrow)"/>
+<text x="335" y="143" font-size="24" fill="#215872" text-anchor="start" font-weight="700">L</text>
+<line x1="323" y1="243" x2="468" y2="243" stroke="#883707" stroke-width="3" marker-end="url(#rust-arrow)"/>
+<text x="445" y="226" font-size="24" fill="#883707" text-anchor="start" font-weight="700">D</text>
+<path d="M650 141 C635 153 635 178 635 199 L546 215 L546 243 L635 236 L635 274 L612 290 L612 303 L651 301 L690 303 L690 290 L667 274 L667 236 L756 243 L756 215 L667 199 C667 173 666 153 650 141 Z" fill="#eaf0f3" stroke="#212c35" stroke-width="2" />
+<path d="M635 199 L546 215 L546 243 L635 236 L667 236 L756 243 L756 215 L667 199 Z" fill="#c2d7e2" stroke="#215872" stroke-width="2" />
+<line x1="651" y1="146" x2="651" y2="300" stroke="#bac3c9" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="651" y="224" font-size="24" fill="#215872" text-anchor="middle" font-weight="700">S</text>
+<text x="651" y="330" font-size="19" fill="#212c35" text-anchor="middle" font-weight="400">Flügelgrundrissfläche</text>
+</g>
+</svg>

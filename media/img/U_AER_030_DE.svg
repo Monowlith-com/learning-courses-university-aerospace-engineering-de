@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 423" role="img" aria-labelledby="title description">
+<title id="title">Barrieren vor und nach einer Entscheidung</title>
+<desc id="description">Ein mehrdeutiger Status kann zur Nutzung eines alten Werts und zur falschen Erklärung führen. Zwei Barrieren wirken an verschiedenen Stellen, und die Beobachtung geht zurück an die Gestaltung.</desc>
+<rect x="0" y="0" width="820" height="423" fill="#fff"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="32" y="48" text-anchor="start" fill="#182932" font-size="29" font-weight="700">Barrieren vor und nach einer Entscheidung</text>
+<line x1="32" y1="68" x2="788" y2="68" stroke="#D8E0E2" stroke-width="2"/>
+<text x="128" y="120" text-anchor="middle" fill="#215872" font-size="20" font-weight="700">Bedingung</text>
+<rect x="34" y="135" width="188" height="76" rx="8" fill="#fff" stroke="#215872" stroke-width="2"/>
+<text x="128.0" y="167.0" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">Mehrdeutiger</text>
+<text x="128.0" y="193.0" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">Status</text>
+<text x="410" y="120" text-anchor="middle" fill="#215872" font-size="20" font-weight="700">Ereignis</text>
+<rect x="316" y="135" width="188" height="76" rx="8" fill="#fff" stroke="#215872" stroke-width="2"/>
+<text x="410.0" y="167.0" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">Alten Wert</text>
+<text x="410.0" y="193.0" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">verwenden</text>
+<text x="692" y="120" text-anchor="middle" fill="#215872" font-size="20" font-weight="700">Auswirkung</text>
+<rect x="598" y="135" width="188" height="76" rx="8" fill="#fff" stroke="#215872" stroke-width="2"/>
+<text x="692.0" y="167.0" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">Falsche</text>
+<text x="692.0" y="193.0" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">Erklärung</text>
+<line x1="222" y1="173" x2="315" y2="173" stroke="#215872" stroke-width="3"/>
+<path d="M 305.45 178.47 L 315 173 L 305.45 167.53" fill="none" stroke="#215872" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="504" y1="173" x2="597" y2="173" stroke="#215872" stroke-width="3"/>
+<path d="M 587.45 178.47 L 597 173 L 587.45 167.53" fill="none" stroke="#215872" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="268" y1="142" x2="268" y2="195" stroke="#883707" stroke-width="4"/>
+<line x1="550" y1="142" x2="550" y2="195" stroke="#883707" stroke-width="4"/>
+<line x1="268" y1="192" x2="268" y2="217" stroke="#883707" stroke-width="2" stroke-dasharray="8 5"/>
+<line x1="550" y1="192" x2="550" y2="217" stroke="#883707" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="268" y="244" text-anchor="middle" fill="#883707" font-size="20" font-weight="600">Eindeutiger Status</text>
+<text x="268" y="270" text-anchor="middle" fill="#883707" font-size="20" font-weight="600">als Text</text>
+<text x="550" y="244" text-anchor="middle" fill="#883707" font-size="20" font-weight="600">Unabhängige</text>
+<text x="550" y="270" text-anchor="middle" fill="#883707" font-size="20" font-weight="600">Kontrolle</text>
+<line x1="690" y1="214" x2="690" y2="335" stroke="#5B6A70" stroke-width="2" stroke-dasharray="8 5"/>
+<line x1="690" y1="335" x2="128" y2="335" stroke="#5B6A70" stroke-width="2" stroke-dasharray="8 5"/>
+<line x1="128" y1="335" x2="128" y2="214" stroke="#5B6A70" stroke-width="3" stroke-dasharray="8 5"/>
+<path d="M 133.47 223.55 L 128 214 L 122.53 223.55" fill="none" stroke="#5B6A70" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="410" y="376" text-anchor="middle" fill="#5B6A70" font-size="19" font-weight="400">Beobachten, melden und Gestaltung überprüfen</text>
+</g>
+</svg>

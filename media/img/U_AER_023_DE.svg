@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 462" role="img" aria-labelledby="title desc">
+  <title id="title">Energie- und Datenflüsse an Bord</title>
+  <desc id="desc">Versorgung speist drei Funktionen. Messdaten gehen über ihre Verarbeitung und Speicherung zur Kommunikation und weiter zum Boden.</desc>
+  <rect width="820" height="462" fill="#fff"/>
+  <defs>
+    <marker id="blue-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#215872"/>
+    </marker>
+    <marker id="brown-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#883707"/>
+    </marker>
+  </defs>
+  <g font-family="sans-serif" font-size="23" fill="#202a2e">
+    <text x="40" y="47" font-size="29" font-weight="bold">Energie- und Datenflüsse an Bord</text>
+    <path d="M40 67 H780" stroke="#c6cbd0" stroke-width="2"/>
+    <rect x="280" y="100" width="260" height="56" rx="7" fill="#f7f7f7" stroke="#526169" stroke-width="2"/>
+    <text x="410" y="136" text-anchor="middle" font-size="21">Versorgung und Speicher</text>
+    <path d="M410 156 V202 M146 202 H674" stroke="#215872" stroke-width="3"/>
+    <path d="M146 202 V245" stroke="#215872" stroke-width="3" marker-end="url(#blue-arrow)"/>
+    <path d="M410 202 V245" stroke="#215872" stroke-width="3" marker-end="url(#blue-arrow)"/>
+    <path d="M674 202 V245" stroke="#215872" stroke-width="3" marker-end="url(#blue-arrow)"/>
+    <rect x="43" y="248" width="206" height="58" rx="7" fill="#f7f7f7" stroke="#526169" stroke-width="2"/>
+    <text x="146" y="285" text-anchor="middle" font-size="21">Nutzlast</text>
+    <rect x="307" y="248" width="206" height="58" rx="7" fill="#f7f7f7" stroke="#526169" stroke-width="2"/>
+    <text x="410" y="285" text-anchor="middle" font-size="21">Daten und Puffer</text>
+    <rect x="571" y="248" width="206" height="58" rx="7" fill="#f7f7f7" stroke="#526169" stroke-width="2"/>
+    <text x="674" y="285" text-anchor="middle" font-size="21">Kommunikation</text>
+    <path d="M253 277 H303" stroke="#883707" stroke-width="3" stroke-dasharray="7 5" marker-end="url(#brown-arrow)"/>
+    <path d="M517 277 H567" stroke="#883707" stroke-width="3" stroke-dasharray="7 5" marker-end="url(#brown-arrow)"/>
+    <path d="M674 309 V355" stroke="#883707" stroke-width="3" stroke-dasharray="7 5" marker-end="url(#brown-arrow)"/>
+    <rect x="571" y="359" width="206" height="58" rx="7" fill="#fff" stroke="#526169" stroke-width="2" stroke-dasharray="6 4"/>
+    <text x="674" y="396" text-anchor="middle" font-size="21">Bodenfunktion</text>
+    <path d="M53 385 H109" stroke="#215872" stroke-width="3" marker-end="url(#blue-arrow)"/>
+    <text x="124" y="391" font-size="19">Elektrische Leistung</text>
+    <path d="M53 424 H109" stroke="#883707" stroke-width="3" stroke-dasharray="7 5" marker-end="url(#brown-arrow)"/>
+    <text x="124" y="430" font-size="19">Daten</text>
+  </g>
+</svg>

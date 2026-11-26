@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 430" role="img" aria-labelledby="title description">
+<title id="title">Zwei Umweltfragen, getrennte Bilanzen</title>
+<desc id="description">Links vergleicht eine Tabelle die direkten Kohlendioxid-Emissionen je Sitz- und je Passagierkilometer. Rechts stehen Orbitumgebung, Missionsende und verbleibende Belastung als getrennte Raumfahrtfragen.</desc>
+<rect x="0" y="0" width="820" height="430" fill="#fff"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="32" y="48" text-anchor="start" fill="#182932" font-size="29" font-weight="700">Zwei Umweltfragen, getrennte Bilanzen</text>
+<line x1="32" y1="68" x2="788" y2="68" stroke="#D8E0E2" stroke-width="2"/>
+<text x="34" y="111" text-anchor="start" fill="#215872" font-size="24" font-weight="700">Luftfahrt</text>
+<text x="445" y="111" text-anchor="start" fill="#883707" font-size="24" font-weight="700">Raumfahrt</text>
+<line x1="410" y1="90" x2="410" y2="395" stroke="#D8E0E2" stroke-width="2"/>
+<text x="35" y="150" text-anchor="start" fill="#182932" font-size="19" font-weight="400">g direktes CO₂ pro Einheit</text>
+<text x="284" y="194" text-anchor="middle" fill="#215872" font-size="20" font-weight="700">A</text>
+<text x="362" y="194" text-anchor="middle" fill="#215872" font-size="20" font-weight="700">B</text>
+<line x1="35" y1="212" x2="391" y2="212" stroke="#D8E0E2" stroke-width="2"/>
+<text x="35" y="237" text-anchor="start" fill="#182932" font-size="19" font-weight="400">Sitzkilometer</text>
+<text x="284" y="237" text-anchor="middle" fill="#182932" font-size="21" font-weight="600">50</text>
+<text x="362" y="237" text-anchor="middle" fill="#182932" font-size="21" font-weight="600">60</text>
+<line x1="35" y1="260" x2="391" y2="260" stroke="#D8E0E2" stroke-width="2"/>
+<text x="35" y="285" text-anchor="start" fill="#182932" font-size="19" font-weight="400">Passagierkilometer</text>
+<text x="284" y="285" text-anchor="middle" fill="#182932" font-size="21" font-weight="600">100</text>
+<text x="362" y="285" text-anchor="middle" fill="#182932" font-size="21" font-weight="600">66,7</text>
+<text x="210" y="342" text-anchor="middle" fill="#215872" font-size="18" font-weight="400">Der Nenner ändert</text>
+<text x="210" y="368" text-anchor="middle" fill="#215872" font-size="18" font-weight="400">die Rangfolge.</text>
+<rect x="448" y="142" width="336" height="54" rx="8" fill="#fff" stroke="#883707" stroke-width="2"/>
+<text x="616.0" y="176.0" text-anchor="middle" fill="#883707" font-size="20" font-weight="600">Orbitumgebung</text>
+<rect x="448" y="215" width="336" height="54" rx="8" fill="#fff" stroke="#883707" stroke-width="2"/>
+<text x="616.0" y="249.0" text-anchor="middle" fill="#883707" font-size="20" font-weight="600">Missionsende</text>
+<rect x="448" y="288" width="336" height="54" rx="8" fill="#fff" stroke="#883707" stroke-width="2"/>
+<text x="616.0" y="322.0" text-anchor="middle" fill="#883707" font-size="20" font-weight="600">Verbleibende Belastung</text>
+<text x="616" y="383" text-anchor="middle" fill="#883707" font-size="18" font-weight="400">Eigene Kriterien anwenden.</text>
+</g>
+</svg>

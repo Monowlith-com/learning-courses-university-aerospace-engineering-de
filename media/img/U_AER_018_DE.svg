@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 505" role="img" aria-labelledby="title desc">
+  <title id="title">r = R + h</title>
+  <desc id="desc">v ⟂ r · g ↓</desc>
+  <rect width="820" height="505" fill="#fff"/>
+  <defs>
+    <marker id="blue-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#215872"/>
+    </marker>
+    <marker id="brown-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#883707"/>
+    </marker>
+  </defs>
+  <g font-family="sans-serif" font-size="23" fill="#202a2e">
+    <text x="40" y="47" font-size="29" font-weight="bold">r = R + h</text>
+    <path d="M40 67 H780" stroke="#c6cbd0" stroke-width="2"/>
+    <circle cx="399" cy="292" r="162" fill="none" stroke="#526169" stroke-width="3"/>
+    <circle cx="399" cy="292" r="118" fill="#edf1f3" stroke="#526169" stroke-width="2"/>
+    <circle cx="399" cy="292" r="5" fill="#202a2e"/>
+    <circle cx="399" cy="130" r="7" fill="#202a2e"/>
+    <path d="M399 130 H551" stroke="#215872" stroke-width="4" marker-end="url(#blue-arrow)"/>
+    <path d="M399 130 V226" stroke="#883707" stroke-width="4" marker-end="url(#brown-arrow)"/>
+    <path d="M399 292 H281" stroke="#526169" stroke-width="2"/>
+    <path d="M399 292 L514 407" stroke="#526169" stroke-width="2" stroke-dasharray="9 6"/>
+    <path d="M403 297 L411 289 M482 380 L490 372 M511 409 L519 401" stroke="#526169" stroke-width="2"/>
+    <text x="496" y="116" font-weight="bold" fill="#215872">v</text>
+    <text x="414" y="213" font-weight="bold" fill="#883707">g</text>
+    <text x="327" y="280">R</text>
+    <text x="461" y="339">r</text>
+    <text x="522" y="387">h</text>
+  </g>
+</svg>

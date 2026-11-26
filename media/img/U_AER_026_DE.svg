@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 389" role="img" aria-labelledby="title description">
+<title id="title">Messwerte und gewichtete Schätzung</title>
+<desc id="description">Zwei Messwerte und der gewichtete Schätzwert liegen auf derselben Positionsachse. Querbalken zeigen je eine Standardunsicherheit.</desc>
+<rect x="0" y="0" width="820" height="389" fill="#fff"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="32" y="48" text-anchor="start" fill="#182932" font-size="29" font-weight="700">Messwerte und gewichtete Schätzung</text>
+<line x1="32" y1="68" x2="788" y2="68" stroke="#D8E0E2" stroke-width="2"/>
+<line x1="255.0" y1="107" x2="255.0" y2="307" stroke="#D8E0E2" stroke-width="1"/>
+<line x1="255.0" y1="302" x2="255.0" y2="313" stroke="#182932" stroke-width="2"/>
+<text x="255.0" y="337" text-anchor="middle" fill="#182932" font-size="18" font-weight="400">11,5</text>
+<line x1="380.0" y1="107" x2="380.0" y2="307" stroke="#D8E0E2" stroke-width="1"/>
+<line x1="380.0" y1="302" x2="380.0" y2="313" stroke="#182932" stroke-width="2"/>
+<text x="380.0" y="337" text-anchor="middle" fill="#182932" font-size="18" font-weight="400">12,0</text>
+<line x1="505.0" y1="107" x2="505.0" y2="307" stroke="#D8E0E2" stroke-width="1"/>
+<line x1="505.0" y1="302" x2="505.0" y2="313" stroke="#182932" stroke-width="2"/>
+<text x="505.0" y="337" text-anchor="middle" fill="#182932" font-size="18" font-weight="400">12,5</text>
+<line x1="630.0" y1="107" x2="630.0" y2="307" stroke="#D8E0E2" stroke-width="1"/>
+<line x1="630.0" y1="302" x2="630.0" y2="313" stroke="#182932" stroke-width="2"/>
+<text x="630.0" y="337" text-anchor="middle" fill="#182932" font-size="18" font-weight="400">13,0</text>
+<line x1="755.0" y1="107" x2="755.0" y2="307" stroke="#D8E0E2" stroke-width="1"/>
+<line x1="755.0" y1="302" x2="755.0" y2="313" stroke="#182932" stroke-width="2"/>
+<text x="755.0" y="337" text-anchor="middle" fill="#182932" font-size="18" font-weight="400">13,5</text>
+<line x1="223" y1="307" x2="773" y2="307" stroke="#182932" stroke-width="3"/>
+<path d="M 763.45 312.47 L 773 307 L 763.45 301.53" fill="none" stroke="#182932" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="498" y="373" text-anchor="middle" fill="#5B6A70" font-size="18" font-weight="400">Position in m</text>
+<text x="34" y="133" text-anchor="start" fill="#215872" font-size="21" font-weight="600">Messung 1</text>
+<line x1="280.0" y1="126" x2="480.0" y2="126" stroke="#215872" stroke-width="3"/>
+<line x1="280.0" y1="116" x2="280.0" y2="136" stroke="#215872" stroke-width="2"/>
+<line x1="480.0" y1="116" x2="480.0" y2="136" stroke="#215872" stroke-width="2"/>
+<circle cx="380.0" cy="126" r="6" stroke="#215872" fill="#fff" stroke-width="3"/>
+<text x="34" y="196" text-anchor="start" fill="#215872" font-size="21" font-weight="600">Messung 2</text>
+<line x1="330.0" y1="189" x2="730.0" y2="189" stroke="#215872" stroke-width="3"/>
+<line x1="330.0" y1="179" x2="330.0" y2="199" stroke="#215872" stroke-width="2"/>
+<line x1="730.0" y1="179" x2="730.0" y2="199" stroke="#215872" stroke-width="2"/>
+<circle cx="530.0" cy="189" r="6" stroke="#215872" fill="#fff" stroke-width="3"/>
+<text x="34" y="259" text-anchor="start" fill="#883707" font-size="21" font-weight="600">Schätzwert</text>
+<line x1="320.56" y1="252" x2="499.44" y2="252" stroke="#883707" stroke-width="3" stroke-dasharray="8 5"/>
+<line x1="320.56" y1="242" x2="320.56" y2="262" stroke="#883707" stroke-width="2"/>
+<line x1="499.44" y1="242" x2="499.44" y2="262" stroke="#883707" stroke-width="2"/>
+<circle cx="410.0" cy="252" r="6" stroke="#883707" fill="#883707" stroke-width="3"/>
+</g>
+</svg>

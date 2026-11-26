@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 405" role="img" aria-labelledby="title desc" xml:lang="de">
+  <title id="title">Ähnlichkeit bei halber Länge</title>
+  <desc id="desc">Bei halber Länge und gleichem Luftzustand halbiert sich Re, Ma bleibt bei gleicher Geschwindigkeit konstant.</desc>
+  <defs>
+    <marker id="blue" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#215872"/></marker>
+    <marker id="brown" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#883707"/></marker>
+  </defs>
+  <rect width="840" height="405" fill="#fff"/>
+  <g font-family="system-ui, sans-serif">
+    <text x="32" y="49" fill="#1d303b" font-size="28" text-anchor="start">Ähnlichkeit bei halber Länge</text>
+    <path d="M32 68 H808" stroke="#c3cad0"/>
+    <rect x="32" y="90" width="376" height="220" rx="8" fill="#fff" stroke="#7b8790" stroke-width="2"/>
+    <rect x="432" y="90" width="376" height="220" rx="8" fill="#fff" stroke="#7b8790" stroke-width="2"/>
+    <text x="54" y="125" fill="#1d303b" font-size="22" text-anchor="start">Referenzkörper</text>
+    <text x="454" y="125" fill="#1d303b" font-size="22" text-anchor="start">Halbe Länge</text>
+    <path d="M119 192 Q211 154 311 191 Q214 224 119 192Z" fill="#e9eef1" stroke="#215872" stroke-width="3"/>
+    <path d="M572 192 Q618 173 668 191 Q620 208 572 192Z" fill="#e9eef1" stroke="#215872" stroke-width="3"/>
+    <line x1="116" y1="230" x2="312" y2="230" stroke="#215872" stroke-width="3"/>
+    <line x1="570" y1="230" x2="670" y2="230" stroke="#215872" stroke-width="3"/>
+    <text x="215" y="257" fill="#215872" font-size="20" text-anchor="middle">L</text>
+    <text x="620" y="257" fill="#215872" font-size="20" text-anchor="middle">L/2</text>
+    <text x="215" y="291" fill="#1d303b" font-size="23" text-anchor="middle">Re₁   |   Ma₁</text>
+    <text x="620" y="291" fill="#1d303b" font-size="23" text-anchor="middle">Re₂ = Re₁/2   |   Ma₂ = Ma₁</text>
+    <text x="420" y="355" fill="#1d303b" font-size="20" text-anchor="middle">gleiche Geschwindigkeit V und gleicher Luftzustand</text>
+  </g>
+</svg>

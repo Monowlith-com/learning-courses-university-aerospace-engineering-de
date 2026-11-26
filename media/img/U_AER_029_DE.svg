@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 403" role="img" aria-labelledby="title description">
+<title id="title">Zwei Prüfziele, zwei Aussagen</title>
+<desc id="description">Zwei Zeilen zeigen die Verifikation der Anforderung und die Validierung in der vorgesehenen Nutzung. Links steht der jeweilige Maßstab, rechts der passende Nachweis.</desc>
+<rect x="0" y="0" width="820" height="403" fill="#fff"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="32" y="48" text-anchor="start" fill="#182932" font-size="29" font-weight="700">Zwei Prüfziele, zwei Aussagen</text>
+<line x1="32" y1="68" x2="788" y2="68" stroke="#D8E0E2" stroke-width="2"/>
+<text x="35" y="112" text-anchor="start" fill="#215872" font-size="23" font-weight="700">Verifikation</text>
+<rect x="36" y="132" width="305" height="65" rx="8" fill="#fff" stroke="#215872" stroke-width="2"/>
+<text x="188.5" y="158.5" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">Vorgegebene</text>
+<text x="188.5" y="184.5" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">Anforderung</text>
+<rect x="479" y="132" width="305" height="65" rx="8" fill="#fff" stroke="#215872" stroke-width="2"/>
+<text x="631.5" y="158.5" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">Status</text>
+<text x="631.5" y="184.5" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">und Reaktionszeit</text>
+<line x1="344" y1="164" x2="476" y2="164" stroke="#215872" stroke-width="3"/>
+<path d="M 466.45 169.47 L 476 164 L 466.45 158.53" fill="none" stroke="#215872" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="35" y="246" text-anchor="start" fill="#883707" font-size="23" font-weight="700">Validierung</text>
+<rect x="36" y="263" width="305" height="65" rx="8" fill="#fff" stroke="#883707" stroke-width="2"/>
+<text x="188.5" y="289.5" text-anchor="middle" fill="#883707" font-size="20" font-weight="600">Beabsichtigte Nutzung</text>
+<text x="188.5" y="315.5" text-anchor="middle" fill="#883707" font-size="20" font-weight="600">im Museum</text>
+<rect x="479" y="263" width="305" height="65" rx="8" fill="#fff" stroke="#883707" stroke-width="2"/>
+<text x="631.5" y="289.5" text-anchor="middle" fill="#883707" font-size="20" font-weight="600">Verständnis</text>
+<text x="631.5" y="315.5" text-anchor="middle" fill="#883707" font-size="20" font-weight="600">im Nutzungsversuch</text>
+<line x1="344" y1="295" x2="476" y2="295" stroke="#883707" stroke-width="3"/>
+<path d="M 466.45 300.47 L 476 295 L 466.45 289.53" fill="none" stroke="#883707" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="35" y="373" text-anchor="start" fill="#5B6A70" font-size="18" font-weight="400">Dieselbe Anzeige wird in beiden Prüfwegen untersucht.</text>
+</g>
+</svg>

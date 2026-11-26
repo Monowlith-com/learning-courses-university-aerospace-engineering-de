@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 365" role="img" aria-labelledby="title description">
+<title id="title">Ein Messwert, zwei Signalpfade</title>
+<desc id="description">Die Aufnahme hat einen Zeitstempel. Nach Datenprüfung verzweigt der Signalpfad zur Anzeige und zu einer Lehrsteuerung.</desc>
+<rect x="0" y="0" width="820" height="365" fill="#fff"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="32" y="48" text-anchor="start" fill="#182932" font-size="29" font-weight="700">Ein Messwert, zwei Signalpfade</text>
+<line x1="32" y1="68" x2="788" y2="68" stroke="#D8E0E2" stroke-width="2"/>
+<rect x="34" y="143" width="170" height="84" rx="8" fill="#fff" stroke="#215872" stroke-width="2"/>
+<text x="119.0" y="179.0" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">Sensor</text>
+<text x="119.0" y="205.0" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">Aufnahme</text>
+<rect x="267" y="143" width="188" height="84" rx="8" fill="#fff" stroke="#215872" stroke-width="2"/>
+<text x="361.0" y="179.0" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">Alter und</text>
+<text x="361.0" y="205.0" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">Status prüfen</text>
+<rect x="572" y="102" width="213" height="75" rx="8" fill="#fff" stroke="#215872" stroke-width="2"/>
+<text x="678.5" y="146.5" text-anchor="middle" fill="#215872" font-size="20" font-weight="600">Anzeige</text>
+<rect x="572" y="225" width="213" height="75" rx="8" fill="#fff" stroke="#883707" stroke-width="2"/>
+<text x="678.5" y="256.5" text-anchor="middle" fill="#883707" font-size="20" font-weight="600">Lehrsteuerung</text>
+<text x="678.5" y="282.5" text-anchor="middle" fill="#883707" font-size="20" font-weight="600">und Aktor</text>
+<line x1="207" y1="185" x2="264" y2="185" stroke="#215872" stroke-width="3"/>
+<path d="M 254.45 190.47 L 264 185 L 254.45 179.53" fill="none" stroke="#215872" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="458" y1="185" x2="513" y2="185" stroke="#182932" stroke-width="3"/>
+<line x1="513" y1="139" x2="513" y2="262" stroke="#182932" stroke-width="3"/>
+<line x1="513" y1="139" x2="569" y2="139" stroke="#215872" stroke-width="3"/>
+<path d="M 559.45 144.47 L 569 139 L 559.45 133.53" fill="none" stroke="#215872" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="513" y1="262" x2="569" y2="262" stroke="#883707" stroke-width="3"/>
+<path d="M 559.45 267.47 L 569 262 L 559.45 256.53" fill="none" stroke="#883707" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="119" y="263" text-anchor="middle" fill="#5B6A70" font-size="19" font-weight="400">Δp in Pa</text>
+<text x="119" y="291" text-anchor="middle" fill="#5B6A70" font-size="19" font-weight="400">Zeitstempel</text>
+<text x="43" y="338" text-anchor="start" fill="#5B6A70" font-size="18" font-weight="400">Referenz: dieselbe Zeitbasis für Aufnahme und Prüfung.</text>
+</g>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 499" role="img" aria-labelledby="title desc">
+<title id="title">Normalspannungen im Stab und Balken</title>
+<desc id="desc">Bei zentrischem Zug ist die Spannung gleichförmig. Im eingespannten Balken mit Last nach unten liegt bei Biegung Zug oben und Druck unten.</desc>
+<defs>
+<marker id="arrow-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1 1 L9 5 L1 9 Z" fill="#215872"/></marker>
+<marker id="arrow-orange" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1 1 L9 5 L1 9 Z" fill="#883707"/></marker>
+<marker id="arrow-dark" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1 1 L9 5 L1 9 Z" fill="#18252e"/></marker>
+<marker id="arrow-gray" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1 1 L9 5 L1 9 Z" fill="#687783"/></marker>
+</defs>
+<rect width="840" height="499" fill="#fff"/>
+<g font-family="DejaVu Sans, sans-serif" fill="#18252e">
+<text x="42" y="50" font-size="28" text-anchor="start" font-weight="700" fill="#18252e">Normalspannungen im Stab und Balken</text>
+<line x1="42" y1="74" x2="798" y2="74" stroke="#c6cdd1" stroke-width="1.5" stroke-linecap="round"/>
+<text x="43" y="114" font-size="22" text-anchor="start" font-weight="700" fill="#18252e">Zentrischer Zug</text>
+<rect x="237" y="143" width="366" height="64" rx="0" fill="#eef4f6" stroke="#215872" stroke-width="2.6"/>
+<line x1="237" y1="175" x2="100" y2="175" stroke="#215872" stroke-width="3.4" stroke-linecap="round" marker-end="url(#arrow-blue)"/>
+<line x1="603" y1="175" x2="738" y2="175" stroke="#215872" stroke-width="3.4" stroke-linecap="round" marker-end="url(#arrow-blue)"/>
+<text x="121" y="162" font-size="22" text-anchor="start" font-weight="400" fill="#215872">N</text>
+<text x="709" y="162" font-size="22" text-anchor="start" font-weight="400" fill="#215872">N</text>
+<line x1="420" y1="137" x2="420" y2="213" stroke="#687783" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 5"/>
+<text x="420" y="235" font-size="21" text-anchor="middle" font-weight="400" fill="#215872">σₓ = N/A</text>
+<line x1="42" y1="253" x2="798" y2="253" stroke="#c6cdd1" stroke-width="1.5" stroke-linecap="round"/>
+<text x="43" y="289" font-size="22" text-anchor="start" font-weight="700" fill="#18252e">Biegung unter Querlast</text>
+<rect x="159" y="327" width="356" height="66" rx="0" fill="#eef4f6" stroke="#215872" stroke-width="2.6"/>
+<line x1="159" y1="312" x2="159" y2="408" stroke="#18252e" stroke-width="3" stroke-linecap="round"/>
+<line x1="143" y1="323" x2="159" y2="314" stroke="#687783" stroke-width="2" stroke-linecap="round"/>
+<line x1="143" y1="336" x2="159" y2="327" stroke="#687783" stroke-width="2" stroke-linecap="round"/>
+<line x1="143" y1="349" x2="159" y2="340" stroke="#687783" stroke-width="2" stroke-linecap="round"/>
+<line x1="143" y1="362" x2="159" y2="353" stroke="#687783" stroke-width="2" stroke-linecap="round"/>
+<line x1="143" y1="375" x2="159" y2="366" stroke="#687783" stroke-width="2" stroke-linecap="round"/>
+<line x1="143" y1="388" x2="159" y2="379" stroke="#687783" stroke-width="2" stroke-linecap="round"/>
+<line x1="143" y1="401" x2="159" y2="392" stroke="#687783" stroke-width="2" stroke-linecap="round"/>
+<line x1="159" y1="360" x2="612" y2="360" stroke="#687783" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="6 5"/>
+<line x1="515" y1="327" x2="515" y2="429" stroke="#883707" stroke-width="3.4" stroke-linecap="round" marker-end="url(#arrow-orange)"/>
+<text x="528" y="424" font-size="22" text-anchor="start" font-weight="400" fill="#883707">P</text>
+<line x1="260" y1="323" x2="260" y2="398" stroke="#687783" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 5"/>
+<text x="267" y="319" font-size="18" text-anchor="start" font-weight="400" fill="#687783">Schnitt</text>
+<line x1="689" y1="414" x2="689" y2="312" stroke="#18252e" stroke-width="2" stroke-linecap="round" marker-end="url(#arrow-dark)"/>
+<line x1="602" y1="360" x2="777" y2="360" stroke="#18252e" stroke-width="2" stroke-linecap="round" marker-end="url(#arrow-dark)"/>
+<line x1="631" y1="393" x2="747" y2="327" stroke="#215872" stroke-width="3.4" stroke-linecap="round"/>
+<text x="689" y="307" font-size="19" text-anchor="middle" font-weight="400" fill="#18252e">y</text>
+<text x="785" y="366" font-size="19" text-anchor="start" font-weight="400" fill="#18252e">σₓ</text>
+<text x="754" y="319" font-size="18" text-anchor="end" font-weight="400" fill="#215872">Zug</text>
+<text x="655" y="425" font-size="18" text-anchor="middle" font-weight="400" fill="#215872">Druck</text>
+<text x="160" y="464" font-size="18" text-anchor="start" font-weight="400" fill="#687783">Gestrichelt: neutrale Achse bei reiner Biegung</text>
+</g>
+</svg>

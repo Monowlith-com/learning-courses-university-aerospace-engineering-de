@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 384" xml:lang="de" role="img" aria-labelledby="figure-title figure-description">
+<title id="figure-title">Körperachsen und Beitrag zum Nickmoment</title>
+<desc id="figure-description">Die Längsachse zeigt zur Nase, die Hochachse in der Seitenansicht nach unten und die Querachse aus der Ebene. Eine Kraft nach unten vor dem Schwerpunkt ergibt ein negatives Nickmoment.</desc>
+<defs><marker id="ink-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#212c35"/></marker><marker id="blue-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#215872"/></marker><marker id="rust-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#883707"/></marker><marker id="grid-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#bac3c9"/></marker></defs>
+<rect x="0" y="0" width="820" height="384" fill="#fff" />
+<g font-family="Arial, sans-serif">
+<text x="38" y="48" font-size="28" fill="#212c35" text-anchor="start" font-weight="700">Körperachsen und Beitrag zum Nickmoment</text>
+<line x1="38" y1="68" x2="782" y2="68" stroke="#bac3c9" stroke-width="2" />
+<text x="38" y="107" font-size="22" fill="#212c35" text-anchor="start" font-weight="700">Körperfestes Achsensystem</text>
+<path d="M110 221 L138 217 L108 179 L138 177 L176 215 L262 214 L287 192 L326 192 L350 208 L411 208 Q451 219 446 231 Q433 245 387 246 L174 246 L136 251 L108 247 Z" fill="#eaf0f3" stroke="#212c35" stroke-width="2" />
+<line x1="537" y1="93" x2="537" y2="359" stroke="#bac3c9" stroke-width="2" />
+<line x1="276" y1="228" x2="490" y2="228" stroke="#215872" stroke-width="3" marker-end="url(#blue-arrow)"/>
+<text x="488" y="214" font-size="22" fill="#215872" text-anchor="end" font-weight="700">x<tspan font-size="15" baseline-shift="sub">b</tspan></text>
+<line x1="276" y1="228" x2="276" y2="349" stroke="#215872" stroke-width="3" marker-end="url(#blue-arrow)"/>
+<text x="291" y="345" font-size="22" fill="#215872" text-anchor="start" font-weight="700">z<tspan font-size="15" baseline-shift="sub">b</tspan></text>
+<circle cx="276" cy="228" r="10" fill="#fff" stroke="#215872" stroke-width="2"/>
+<circle cx="276" cy="228" r="4" fill="#215872" />
+<text x="255" y="211" font-size="22" fill="#215872" text-anchor="end" font-weight="700">y<tspan font-size="15" baseline-shift="sub">b</tspan></text>
+<text x="45" y="303" font-size="18" fill="#212c35" text-anchor="start" font-weight="400">Rechter Flügel liegt</text>
+<text x="45" y="328" font-size="18" fill="#212c35" text-anchor="start" font-weight="400">vor der Zeichenebene.</text>
+<text x="556" y="107" font-size="22" fill="#212c35" text-anchor="start" font-weight="700">Kraft und Hebelarm</text>
+<line x1="579" y1="243" x2="754" y2="243" stroke="#bac3c9" stroke-width="2" />
+<circle cx="589" cy="243" r="5" fill="#212c35" />
+<text x="568" y="272" font-size="19" fill="#212c35" text-anchor="start" font-weight="400">SP</text>
+<line x1="599" y1="243" x2="735" y2="243" stroke="#215872" stroke-width="3" marker-end="url(#blue-arrow)"/>
+<text x="678" y="226" font-size="20" fill="#215872" text-anchor="middle" font-weight="700">rₓ &gt; 0</text>
+<line x1="746" y1="243" x2="746" y2="318" stroke="#883707" stroke-width="3" marker-end="url(#rust-arrow)"/>
+<text x="735" y="344" font-size="20" fill="#883707" text-anchor="middle" font-weight="700">F<tspan font-size="15" baseline-shift="sub">z</tspan> &gt; 0</text>
+<path d="M675 135 A48 48 0 0 1 699 203" fill="none" stroke="#883707" stroke-width="3" marker-end="url(#rust-arrow)"/>
+<text x="615" y="160" font-size="19" fill="#883707" text-anchor="middle" font-weight="700">M<tspan font-size="15" baseline-shift="sub">y</tspan> &lt; 0</text>
+</g>
+</svg>
